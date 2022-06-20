@@ -1,0 +1,52 @@
+p1{
+  position: absolute;
+  top: 130px;
+  left: 26%;
+  color: cadetblue;
+  font-size: 17pt;
+  font-family: Georgia, 'Times New Roman', Times, serif
+  
+}
+  
+p2{
+  position: absolute;
+  top: 30px;
+  left: 15%;
+  font-size: 12pt;
+  font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+
+.good{
+  height: 10px;
+  width: 80px;
+  position: absolute;
+  top: 199px;
+  left: 16%;
+  aborder: 10px solid cadetblue;
+
+  
+}
+.bad{
+  
+  position: absolute;
+  top: 290px;
+  left: 16%;
+  aborder: 10px solid cadetblue;
+
+}
+ 
+.design{
+  position: absolute;
+  top: 80px;
+  left: 25px;
+
+  background-color: cyan;
+  height: 500px;
+  width: 310px;
+}
+btn{
+  position: absolute;
+  top: 300px;
+  left: 14.5%
+}
